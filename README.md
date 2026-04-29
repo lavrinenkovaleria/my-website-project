@@ -72,27 +72,4 @@
 ## 🧩 Диаграмма прецедентов
 <img width="716" height="520" alt="image" src="https://github.com/user-attachments/assets/cd16423c-8038-4988-8820-9f0ff6338732" />
 ## 🧩 Диаграмма развертывания
-![Uploading image.png…]()
-fitzone/
-├── wp-content/
-│   ├── themes/
-│   │   └── fitzone-theme/          # кастомная тема WordPress
-│   │       ├── style.css            # стили сайта
-│   │       ├── functions.php        # регистрация виджетов и хуков
-│   │       ├── header.php           # шапка сайта
-│   │       ├── footer.php           # подвал сайта
-│   │       ├── index.php            # главная страница
-│   │       ├── page-templates/      # шаблоны страниц
-│   │       │   ├── page-treners.php    # страница тренеров
-│   │       │   ├── page-programs.php   # страница программ
-│   │       │   └── page-schedule.php   # страница расписания
-│   │       └── assets/
-│   │           ├── css/             # дополнительные стили
-│   │           ├── js/              # скрипты (запись, фильтры)
-│   │           └── images/          # изображения сайта
-│   └── plugins/
-│       ├── wpforms/                 # плагин форм
-│       └── amelia/                  # плагин записи к тренерам
-├── wp-config.php                    # конфигурация WordPress
-├── .htaccess                        # настройки Apache
-└── README.md                        # документация проекта
+![Uploading Снимок экрана от 2026-04-29 08-13-45.png…]()
