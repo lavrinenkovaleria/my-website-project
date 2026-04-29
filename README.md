@@ -71,10 +71,28 @@
 
 ## 🧩 Архитектура взаимодействия (User → Server → GitHub)
 
-```mermaid
-graph LR
-    User[Пользователь] -->|HTTP/HTTPS| Browser[Браузер Chrome/Firefox]
-    Browser --> Server[Сервер Apache + PHP]
-    Server --> DB[MySQL]
-    Server -->|git push/pull| GitHub[(GitHub репозиторий)]
-    GitHub -->|deploy| Server
+``mermaid
+
+fitzone/
+├── wp-content/
+│   ├── themes/
+│   │   └── fitzone-theme/          # кастомная тема WordPress
+│   │       ├── style.css            # стили сайта
+│   │       ├── functions.php        # регистрация виджетов и хуков
+│   │       ├── header.php           # шапка сайта
+│   │       ├── footer.php           # подвал сайта
+│   │       ├── index.php            # главная страница
+│   │       ├── page-templates/      # шаблоны страниц
+│   │       │   ├── page-treners.php    # страница тренеров
+│   │       │   ├── page-programs.php   # страница программ
+│   │       │   └── page-schedule.php   # страница расписания
+│   │       └── assets/
+│   │           ├── css/             # дополнительные стили
+│   │           ├── js/              # скрипты (запись, фильтры)
+│   │           └── images/          # изображения сайта
+│   └── plugins/
+│       ├── wpforms/                 # плагин форм
+│       └── amelia/                  # плагин записи к тренерам
+├── wp-config.php                    # конфигурация WordPress
+├── .htaccess                        # настройки Apache
+└── README.md                        # документация проекта
