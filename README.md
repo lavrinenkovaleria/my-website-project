@@ -71,7 +71,7 @@
 
 ## 🧩 Диаграмма прецедентов
 <img width="716" height="520" alt="image" src="https://github.com/user-attachments/assets/cd16423c-8038-4988-8820-9f0ff6338732" />
- 🧩 Диаграмма развертывания
+## 🧩 Диаграмма развертывания
 <img width="633" height="504" alt="Снимок экрана от 2026-04-29 08-13-45" src="https://github.com/user-attachments/assets/67b46d52-8021-42eb-a44c-ac387c60bf15" />
 
 ## 📁 Состав проекта
