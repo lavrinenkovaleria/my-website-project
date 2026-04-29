@@ -72,4 +72,4 @@
 ## 🧩 Диаграмма прецедентов
 <img width="716" height="520" alt="image" src="https://github.com/user-attachments/assets/cd16423c-8038-4988-8820-9f0ff6338732" />
 ## 🧩 Диаграмма развертывания
-![Uploading Снимок экрана от 2026-04-29 08-13-45.png…]()
+Диаграмма развёртывания .drawio.png
