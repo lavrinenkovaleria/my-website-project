@@ -72,6 +72,7 @@
 ## 🧩 Архитектура взаимодействия (User → Server → GitHub)
 
 ``mermaid
+<img width="716" height="520" alt="image" src="https://github.com/user-attachments/assets/cd16423c-8038-4988-8820-9f0ff6338732" />
 
 fitzone/
 ├── wp-content/
