@@ -1,2 +1,2 @@
-# my-website-project
+FitZone
 Добавлены ТЗ и диаграммы
