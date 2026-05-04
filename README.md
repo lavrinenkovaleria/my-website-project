@@ -96,6 +96,7 @@
 
 ## Программы
 <img width="1915" height="925" alt="Снимок экрана от 2026-05-04 13-12-58" src="https://github.com/user-attachments/assets/929a1abf-a51f-4040-8591-9b9b3a8b9681" />
+<img width="1915" height="925" alt="Снимок экрана от 2026-05-04 13-41-10" src="https://github.com/user-attachments/assets/126ad6e9-9291-419f-b167-a9a8fbf35a7f" />
 
 ## Все страницы в меню
 <img width="1756" height="558" alt="Снимок экрана от 2026-05-04 11-28-42" src="https://github.com/user-attachments/assets/38c7a66e-e102-4656-bd4d-bc9d6b8eaf38" />
