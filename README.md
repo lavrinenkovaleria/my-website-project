@@ -84,20 +84,28 @@
 
 ## Это главная страница
 <img width="1913" height="915" alt="Снимок экрана от 2026-05-04 11-27-48" src="https://github.com/user-attachments/assets/91317930-9372-45de-a4e8-66c5575001c3" />
+
 ## Страница о нас
 <img width="1915" height="925" alt="Снимок экрана от 2026-05-04 13-12-52" src="https://github.com/user-attachments/assets/1b2dd6a3-9439-4b29-9e71-520089d7062f" />
+
 ## Блог
 <img width="1915" height="925" alt="Снимок экрана от 2026-05-04 13-12-45" src="https://github.com/user-attachments/assets/3bf6cf79-e192-46a7-991e-57acaf3b219c" />
+
 ## Контакты с работающей формой обратной связи
 <img width="1749" height="903" alt="Снимок экрана от 2026-05-04 11-29-43" src="https://github.com/user-attachments/assets/f85863a2-bc90-4211-adaa-710d14f8b5d1" />
+
 ## Программы
 <img width="1915" height="925" alt="Снимок экрана от 2026-05-04 13-12-58" src="https://github.com/user-attachments/assets/929a1abf-a51f-4040-8591-9b9b3a8b9681" />
+
 ## Все страницы в меню
 <img width="1756" height="558" alt="Снимок экрана от 2026-05-04 11-28-42" src="https://github.com/user-attachments/assets/38c7a66e-e102-4656-bd4d-bc9d6b8eaf38" />
+
 ## Статья 1
 <img width="1718" height="919" alt="Снимок экрана от 2026-05-04 11-31-04" src="https://github.com/user-attachments/assets/ccd86a20-f2a7-4e99-9711-434b62130441" />
+
 ## Статья 2
 <img width="1718" height="919" alt="Снимок экрана от 2026-05-04 11-31-14" src="https://github.com/user-attachments/assets/9f6644e6-5a69-4192-a140-9a72f9c3c795" />
+
 ## Статья 3
 <img width="1718" height="919" alt="Снимок экрана от 2026-05-04 11-31-22" src="https://github.com/user-attachments/assets/fbf2e579-618a-4898-9e5d-55298d5af609" />
 
