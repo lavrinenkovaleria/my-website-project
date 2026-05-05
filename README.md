@@ -83,30 +83,42 @@
 Лавриненко Валерия
 
 ## Это главная страница
-<img width="1913" height="915" alt="Снимок экрана от 2026-05-04 11-27-48" src="https://github.com/user-attachments/assets/91317930-9372-45de-a4e8-66c5575001c3" />
+<img width="1915" height="925" alt="Снимок экрана от 2026-05-05 10-51-32" src="https://github.com/user-attachments/assets/8b22c9e8-98b6-47d5-a14d-e43746fd4cfb" />
+<img width="1915" height="925" alt="Снимок экрана от 2026-05-05 10-51-36" src="https://github.com/user-attachments/assets/d8db89db-1eaf-45eb-b041-2526320e01f2" />
+<img width="1915" height="925" alt="Снимок экрана от 2026-05-05 10-51-40" src="https://github.com/user-attachments/assets/2aaf7575-93c4-40d9-b35d-03a672d73ac3" />
+
 
 ## Страница о нас
-<img width="1915" height="925" alt="Снимок экрана от 2026-05-04 13-12-52" src="https://github.com/user-attachments/assets/1b2dd6a3-9439-4b29-9e71-520089d7062f" />
+<img width="1915" height="925" alt="Снимок экрана от 2026-05-05 10-51-55" src="https://github.com/user-attachments/assets/0977f093-dc2d-4a00-95f7-554a9932da03" />
+<img width="1915" height="925" alt="Снимок экрана от 2026-05-05 10-51-59" src="https://github.com/user-attachments/assets/52bb9c86-fb0e-4e95-82c1-40b7ff37e579" />
+<img width="1915" height="925" alt="Снимок экрана от 2026-05-05 10-52-03" src="https://github.com/user-attachments/assets/13b3ca8b-58b5-4404-8a1c-61dc0652ae34" />
+
 
 ## Блог
-<img width="1915" height="925" alt="Снимок экрана от 2026-05-04 13-12-45" src="https://github.com/user-attachments/assets/3bf6cf79-e192-46a7-991e-57acaf3b219c" />
+<img width="1915" height="925" alt="Снимок экрана от 2026-05-05 10-51-46" src="https://github.com/user-attachments/assets/0b269551-9cbc-47c7-b69b-dff99b6d45b9" />
+
 
 ## Контакты с работающей формой обратной связи
-<img width="1749" height="903" alt="Снимок экрана от 2026-05-04 11-29-43" src="https://github.com/user-attachments/assets/f85863a2-bc90-4211-adaa-710d14f8b5d1" />
+<img width="1915" height="925" alt="Снимок экрана от 2026-05-05 10-54-42" src="https://github.com/user-attachments/assets/025afa2f-c305-4e32-bd92-d27f7fa2257c" />
+
 
 ## Программы
-<img width="1915" height="925" alt="Снимок экрана от 2026-05-04 13-12-58" src="https://github.com/user-attachments/assets/929a1abf-a51f-4040-8591-9b9b3a8b9681" />
-<img width="1915" height="925" alt="Снимок экрана от 2026-05-04 13-41-10" src="https://github.com/user-attachments/assets/126ad6e9-9291-419f-b167-a9a8fbf35a7f" />
+<img width="1915" height="925" alt="Снимок экрана от 2026-05-05 10-54-29" src="https://github.com/user-attachments/assets/5c7e9ca1-dbbf-4f8d-9970-32cebc1fec55" />
+<img width="1915" height="925" alt="Снимок экрана от 2026-05-05 10-54-33" src="https://github.com/user-attachments/assets/86b19571-c7b6-4bbd-8d5c-03977b033ff0" />
+
 
 ## Все страницы в меню
 <img width="1756" height="558" alt="Снимок экрана от 2026-05-04 11-28-42" src="https://github.com/user-attachments/assets/38c7a66e-e102-4656-bd4d-bc9d6b8eaf38" />
 
 ## Статья 1
-<img width="1718" height="919" alt="Снимок экрана от 2026-05-04 11-31-04" src="https://github.com/user-attachments/assets/ccd86a20-f2a7-4e99-9711-434b62130441" />
+<img width="1915" height="925" alt="Снимок экрана от 2026-05-05 10-54-47" src="https://github.com/user-attachments/assets/fc45d036-95dc-493d-9b3f-650e4a86ef52" />
+
 
 ## Статья 2
-<img width="1718" height="919" alt="Снимок экрана от 2026-05-04 11-31-14" src="https://github.com/user-attachments/assets/9f6644e6-5a69-4192-a140-9a72f9c3c795" />
+<img width="1915" height="925" alt="Снимок экрана от 2026-05-05 10-54-53" src="https://github.com/user-attachments/assets/53404747-5e06-4819-bbd2-5a8161dc5b15" />
+
 
 ## Статья 3
-<img width="1718" height="919" alt="Снимок экрана от 2026-05-04 11-31-22" src="https://github.com/user-attachments/assets/fbf2e579-618a-4898-9e5d-55298d5af609" />
+<img width="1915" height="925" alt="Снимок экрана от 2026-05-05 10-55-05" src="https://github.com/user-attachments/assets/0f497822-9068-4c88-b948-e285ff3344b8" />
+
 
