@@ -108,7 +108,8 @@
 
 
 ## Все страницы в меню
-<img width="1756" height="558" alt="Снимок экрана от 2026-05-04 11-28-42" src="https://github.com/user-attachments/assets/38c7a66e-e102-4656-bd4d-bc9d6b8eaf38" />
+<img width="1915" height="925" alt="Снимок экрана от 2026-05-05 10-59-08" src="https://github.com/user-attachments/assets/027763d7-8e99-4b0d-a8d5-324c326b2012" />
+
 
 ## Статья 1
 <img width="1915" height="925" alt="Снимок экрана от 2026-05-05 10-54-47" src="https://github.com/user-attachments/assets/fc45d036-95dc-493d-9b3f-650e4a86ef52" />
