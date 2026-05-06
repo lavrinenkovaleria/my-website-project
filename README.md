@@ -186,9 +186,19 @@ bbPress — это официальный плагин от разработчи
 
 Нажала Сохранить меню
 ![Снимок экрана от 2026-05-06 10-53-54](https://github.com/user-attachments/assets/05e96959-1149-4b34-b08b-36d493d0a689)
+
 ## Созданный форум, 3 темы и 3 сообщения
+<img width="1872" height="199" alt="Снимок экрана от 2026-05-06 10-52-06" src="https://github.com/user-attachments/assets/bf8ab0ec-03cd-4ec6-9377-c7ce7768c9f4" />
+![Снимок экрана от 2026-05-06 10-52-14](https://github.com/user-attachments/assets/4709fe48-fd74-4683-93dc-396d400f1137)
+<img width="1883" height="902" alt="Снимок экрана от 2026-05-06 10-52-19" src="https://github.com/user-attachments/assets/b96f91dd-74e5-4e83-bee3-658c0832f0c7" />
+<img width="1883" height="902" alt="Снимок экрана от 2026-05-06 10-52-25" src="https://github.com/user-attachments/assets/d8d3b006-a347-4e59-b67d-58d933738137" />
+<img width="1883" height="902" alt="Снимок экрана от 2026-05-06 10-53-02" src="https://github.com/user-attachments/assets/969c53d9-eb0b-4d95-b503-6c14d65aba7e" />
+<img width="1883" height="902" alt="Снимок экрана от 2026-05-06 10-53-10" src="https://github.com/user-attachments/assets/9f423782-bb2f-4466-8555-b884843276c4" />
 
 ## Добавление правил и категорий
+<img width="1874" height="646" alt="Снимок экрана от 2026-05-06 10-50-32" src="https://github.com/user-attachments/assets/51d3647b-687d-4e71-93bb-bb943668e4ea" />
+<img width="289" height="922" alt="Снимок экрана от 2026-05-06 12-00-00" src="https://github.com/user-attachments/assets/0824f74c-c224-489a-b57c-47c59033a53b" />
+<img width="716" height="845" alt="Снимок экрана от 2026-05-06 10-51-29" src="https://github.com/user-attachments/assets/5ff050e0-d6c9-4454-b0b5-c1d2bf018d00" />
 
 
 # 7. ОТЧЁТ О ТЕСТИРОВАНИИ ФОРУМА FITZONE
