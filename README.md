@@ -189,7 +189,7 @@ bbPress — это официальный плагин от разработчи
 
 ## Созданный форум, 3 темы и 3 сообщения
 <img width="1872" height="199" alt="Снимок экрана от 2026-05-06 10-52-06" src="https://github.com/user-attachments/assets/bf8ab0ec-03cd-4ec6-9377-c7ce7768c9f4" />
-![Снимок экрана от 2026-05-06 10-52-14](https://github.com/user-attachments/assets/4709fe48-fd74-4683-93dc-396d400f1137)
+<img width="1909" height="908" alt="Снимок экрана от 2026-05-06 12-01-00" src="https://github.com/user-attachments/assets/dc45931d-3e29-4aef-98f2-4884a756cfe3" />
 <img width="1883" height="902" alt="Снимок экрана от 2026-05-06 10-52-19" src="https://github.com/user-attachments/assets/b96f91dd-74e5-4e83-bee3-658c0832f0c7" />
 <img width="1883" height="902" alt="Снимок экрана от 2026-05-06 10-52-25" src="https://github.com/user-attachments/assets/d8d3b006-a347-4e59-b67d-58d933738137" />
 <img width="1883" height="902" alt="Снимок экрана от 2026-05-06 10-53-02" src="https://github.com/user-attachments/assets/969c53d9-eb0b-4d95-b503-6c14d65aba7e" />
