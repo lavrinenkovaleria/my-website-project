@@ -200,6 +200,10 @@ bbPress — это официальный плагин от разработчи
 <img width="289" height="922" alt="Снимок экрана от 2026-05-06 12-00-00" src="https://github.com/user-attachments/assets/0824f74c-c224-489a-b57c-47c59033a53b" />
 <img width="716" height="845" alt="Снимок экрана от 2026-05-06 10-51-29" src="https://github.com/user-attachments/assets/5ff050e0-d6c9-4454-b0b5-c1d2bf018d00" />
 
+## Настраивание ролей
+<img width="1909" height="908" alt="Снимок экрана от 2026-05-06 12-03-24" src="https://github.com/user-attachments/assets/5f4bb72b-9246-4a59-a8a5-782e215ab3c7" />
+<img width="651" height="488" alt="Снимок экрана от 2026-05-06 12-03-44" src="https://github.com/user-attachments/assets/fb858efd-c3e3-438f-b80c-a1a859e3b7c7" />
+
 
 # 7. ОТЧЁТ О ТЕСТИРОВАНИИ ФОРУМА FITZONE
 
